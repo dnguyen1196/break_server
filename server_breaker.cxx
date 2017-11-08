@@ -37,9 +37,9 @@ int main(int argc, char** argv)
 {
     // Run through all of the parameter combinations that the homework asks for.
     // Parameters are n_lines, n_stores, n_loads, n_threads.
- //    for (int n_lines=100; n_lines<=100000; n_lines *= 10)
-	// for (int n_threads=1; n_threads<=16; n_threads *= 2)
-	//     run (n_lines, 0, 2, n_threads, 204800000);
+    for (int n_lines=100; n_lines<=100000; n_lines *= 10)
+	for (int n_threads=1; n_threads<=16; n_threads *= 2)
+	   run (n_lines, 0, 2, n_threads, 204800000);
 
     for (int n_lines=1000; n_lines<=100000; n_lines *= 10)
 	for (int n_threads=1; n_threads<=16; n_threads *= 2)

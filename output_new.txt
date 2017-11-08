@@ -1,0 +1,282 @@
+lab116q{mnguye16}71: ./a.out 
+
+Picking 100 lines from a total of 10000000
+1 threads, each doing 2048000 loops of 100 lines (0 stores+2 loads)
+Execution took 309.306msec
+Execution took 305.382msec
+Execution took 305.079msec
+Execution took 303.816msec
+Execution took 305.547msec
+
+Picking 100 lines from a total of 10000000
+2 threads, each doing 2048000 loops of 100 lines (0 stores+2 loads)
+Execution took 313.744msec
+Execution took 314.124msec
+Execution took 312.505msec
+Execution took 311.345msec
+Execution took 312.643msec
+
+Picking 100 lines from a total of 10000000
+4 threads, each doing 2048000 loops of 100 lines (0 stores+2 loads)
+Execution took 594.066msec
+Execution took 593.136msec
+Execution took 593.472msec
+Execution took 593.611msec
+Execution took 594.122msec
+
+Picking 100 lines from a total of 10000000
+8 threads, each doing 2048000 loops of 100 lines (0 stores+2 loads)
+Execution took 620.977msec
+Execution took 621.084msec
+Execution took 620.373msec
+Execution took 620.063msec
+Execution took 620.377msec
+
+Picking 100 lines from a total of 10000000
+16 threads, each doing 2048000 loops of 100 lines (0 stores+2 loads)
+Execution took 1253.38msec
+Execution took 1252.83msec
+Execution took 1255.12msec
+Execution took 1246.25msec
+Execution took 1250.02msec
+
+Picking 1000 lines from a total of 10000000
+1 threads, each doing 204800 loops of 1000 lines (0 stores+2 loads)
+Execution took 265.672msec
+Execution took 268.875msec
+Execution took 265.432msec
+Execution took 266.363msec
+Execution took 265.177msec
+
+Picking 1000 lines from a total of 10000000
+2 threads, each doing 204800 loops of 1000 lines (0 stores+2 loads)
+Execution took 271.191msec
+Execution took 271.723msec
+Execution took 271.054msec
+Execution took 274.189msec
+Execution took 271.672msec
+
+Picking 1000 lines from a total of 10000000
+4 threads, each doing 204800 loops of 1000 lines (0 stores+2 loads)
+Execution took 540.617msec
+Execution took 540.715msec
+Execution took 539.983msec
+Execution took 540.736msec
+Execution took 540.353msec
+
+Picking 1000 lines from a total of 10000000
+8 threads, each doing 204800 loops of 1000 lines (0 stores+2 loads)
+Execution took 563.712msec
+Execution took 563.841msec
+Execution took 563.933msec
+Execution took 563.711msec
+Execution took 563.806msec
+
+Picking 1000 lines from a total of 10000000
+16 threads, each doing 204800 loops of 1000 lines (0 stores+2 loads)
+Execution took 1145.73msec
+Execution took 1183.38msec
+Execution took 1131.15msec
+Execution took 1154.33msec
+Execution took 1155.27msec
+
+Picking 10000 lines from a total of 10000000
+1 threads, each doing 20480 loops of 10000 lines (0 stores+2 loads)
+Execution took 261.486msec
+Execution took 262.456msec
+Execution took 261.897msec
+Execution took 262.207msec
+Execution took 261.879msec
+
+Picking 10000 lines from a total of 10000000
+2 threads, each doing 20480 loops of 10000 lines (0 stores+2 loads)
+Execution took 268.019msec
+Execution took 267.694msec
+Execution took 267.571msec
+Execution took 266.808msec
+Execution took 268.665msec
+
+Picking 10000 lines from a total of 10000000
+4 threads, each doing 20480 loops of 10000 lines (0 stores+2 loads)
+Execution took 534.85msec
+Execution took 534.422msec
+Execution took 535.037msec
+Execution took 533.609msec
+Execution took 533.449msec
+
+Picking 10000 lines from a total of 10000000
+8 threads, each doing 20480 loops of 10000 lines (0 stores+2 loads)
+Execution took 557.998msec
+Execution took 557.914msec
+Execution took 558.008msec
+Execution took 558.027msec
+Execution took 557.956msec
+
+Picking 10000 lines from a total of 10000000
+16 threads, each doing 20480 loops of 10000 lines (0 stores+2 loads)
+Execution took 1133.97msec
+Execution took 1124.39msec
+Execution took 1128.53msec
+Execution took 1116.65msec
+Execution took 1127.8msec
+
+Picking 100000 lines from a total of 10000000
+1 threads, each doing 2048 loops of 100000 lines (0 stores+2 loads)
+Execution took 261.614msec
+Execution took 261.279msec
+Execution took 262.312msec
+Execution took 260.843msec
+Execution took 260.714msec
+
+Picking 100000 lines from a total of 10000000
+2 threads, each doing 2048 loops of 100000 lines (0 stores+2 loads)
+Execution took 266.894msec
+Execution took 267.676msec
+Execution took 269.129msec
+Execution took 267.014msec
+Execution took 268.303msec
+
+Picking 100000 lines from a total of 10000000
+4 threads, each doing 2048 loops of 100000 lines (0 stores+2 loads)
+Execution took 279.574msec
+Execution took 280.103msec
+Execution took 279.164msec
+Execution took 280.02msec
+Execution took 279.621msec
+
+Picking 100000 lines from a total of 10000000
+8 threads, each doing 2048 loops of 100000 lines (0 stores+2 loads)
+Execution took 557.422msec
+Execution took 557.581msec
+Execution took 557.421msec
+Execution took 557.428msec
+Execution took 557.395msec
+
+Picking 100000 lines from a total of 10000000
+16 threads, each doing 2048 loops of 100000 lines (0 stores+2 loads)
+Execution took 1113.6msec
+Execution took 1119.6msec
+Execution took 1121msec
+Execution took 1150.83msec
+Execution took 1123.73msec
+
+Picking 1000 lines from a total of 10000000
+1 threads, each doing 102400 loops of 1000 lines (4 stores+1 loads)
+Execution took 614.084msec
+Execution took 605.724msec
+Execution took 603.483msec
+Execution took 616.731msec
+Execution took 604.205msec
+
+Picking 1000 lines from a total of 10000000
+2 threads, each doing 102400 loops of 1000 lines (4 stores+1 loads)
+Execution took 2169.82msec
+Execution took 2167.91msec
+Execution took 2169.21msec
+Execution took 2168.85msec
+Execution took 2167.99msec
+
+Picking 1000 lines from a total of 10000000
+4 threads, each doing 102400 loops of 1000 lines (4 stores+1 loads)
+Execution took 2952.92msec
+Execution took 2943.33msec
+Execution took 2937.95msec
+Execution took 2940.13msec
+Execution took 3160.09msec
+
+Picking 1000 lines from a total of 10000000
+8 threads, each doing 102400 loops of 1000 lines (4 stores+1 loads)
+Execution took 3355.68msec
+Execution took 3583.25msec
+Execution took 3507.8msec
+Execution took 3577.06msec
+Execution took 3673.14msec
+
+Picking 1000 lines from a total of 10000000
+16 threads, each doing 102400 loops of 1000 lines (4 stores+1 loads)
+Execution took 6691.2msec
+Execution took 6756.26msec
+Execution took 6748.74msec
+Execution took 6756.03msec
+Execution took 6759.04msec
+
+Picking 10000 lines from a total of 10000000
+1 threads, each doing 10240 loops of 10000 lines (4 stores+1 loads)
+Execution took 2541.88msec
+Execution took 2559.16msec
+Execution took 2583.01msec
+Execution took 2657.05msec
+Execution took 2522.29msec
+
+Picking 10000 lines from a total of 10000000
+2 threads, each doing 10240 loops of 10000 lines (4 stores+1 loads)
+Execution took 2648.22msec
+Execution took 2645.7msec
+Execution took 2646.61msec
+Execution took 2646.64msec
+Execution took 2644.87msec
+
+Picking 10000 lines from a total of 10000000
+4 threads, each doing 10240 loops of 10000 lines (4 stores+1 loads)
+Execution took 4117.95msec
+Execution took 4136.32msec
+Execution took 3502.6msec
+Execution took 2857.68msec
+Execution took 4195.96msec
+
+Picking 10000 lines from a total of 10000000
+8 threads, each doing 10240 loops of 10000 lines (4 stores+1 loads)
+Execution took 4688.44msec
+Execution took 4690.89msec
+Execution took 4684.75msec
+Execution took 4737.48msec
+Execution took 4670.98msec
+
+Picking 10000 lines from a total of 10000000
+16 threads, each doing 10240 loops of 10000 lines (4 stores+1 loads)
+Execution took 9243.56msec
+Execution took 9587.14msec
+Execution took 9230.9msec
+Execution took 9179.25msec
+Execution took 9182.8msec
+
+Picking 100000 lines from a total of 10000000
+1 threads, each doing 1024 loops of 100000 lines (4 stores+1 loads)
+Execution took 2624.9msec
+Execution took 2634.43msec
+Execution took 2609.79msec
+Execution took 2629.67msec
+Execution took 2643.96msec
+
+Picking 100000 lines from a total of 10000000
+2 threads, each doing 1024 loops of 100000 lines (4 stores+1 loads)
+Execution took 3495.92msec
+Execution took 3497.29msec
+Execution took 3498.88msec
+Execution took 3486.19msec
+Execution took 3496.91msec
+
+Picking 100000 lines from a total of 10000000
+4 threads, each doing 1024 loops of 100000 lines (4 stores+1 loads)
+Execution took 4095.56msec
+Execution took 4115.49msec
+Execution took 4738.48msec
+Execution took 4325.52msec
+Execution took 4219.06msec
+
+Picking 100000 lines from a total of 10000000
+8 threads, each doing 1024 loops of 100000 lines (4 stores+1 loads)
+Execution took 6091.98msec
+Execution took 5857.3msec
+Execution took 5892.08msec
+Execution took 6452.37msec
+Execution took 5957.26msec
+
+Picking 100000 lines from a total of 10000000
+16 threads, each doing 1024 loops of 100000 lines (4 stores+1 loads)
+Execution took 11800.5msec
+Execution took 11819.7msec
+Execution took 11834.1msec
+Execution took 12006.7msec
+Execution took 11844.6msec
+
